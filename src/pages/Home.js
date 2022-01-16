@@ -29,7 +29,7 @@ export function Home() {
     } else {
       setGreeting('Good night')
     }
-  }, [mySkills])
+  }, [])
 
   return (
     <View style={styles.container}>
