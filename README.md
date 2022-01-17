@@ -3,12 +3,12 @@
 
 -   A application for list your skills
 
-Application Details
+## Application Details
 
 
 ![Behaviors](https://github.com/Alex-dll/MySkiils/blob/master/public/Google%20Pixel%202%20XL.png?raw=true)
 
-How to run this project
+## How to run this project
 
 Clone this repo
 
