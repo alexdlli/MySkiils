@@ -1,3 +1,4 @@
+
 # Welcome to MySkills App
 
 -   A application for list your skills
@@ -11,19 +12,19 @@ How to run this project
 
 Clone this repo
 
-  git clone https://github.com/Alex-dll/MySkiils
+      git clone https://github.com/Alex-dll/MySkiils
 
 Go to project directory
 
-  cd my-project
+      cd my-project
 
 Install the dependencies
 
-  npm install | yarn install
+      npm install | yarn install
 
 Start the aplication
 
-  yarn start && yarn android || yarn ios
+      yarn start && yarn android || yarn ios
 
 ## 🛠  Used Tools  ⌨
 
